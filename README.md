@@ -1,5 +1,7 @@
 # Simple example site with dashboard for CRUD Api
-![dashboard api](https://github.com/javadashtiani/weatherappapi/assets/134012615/ed8e9963-5223-4663-80fb-a98258bdf58c)
+![dashboard api](https://github.com/m-tabaei/React_Simple_Project/blob/main/img/1.JPG?raw=true)
+![dashboard api](https://github.com/m-tabaei/React_Simple_Project/blob/main/img/2.JPG?raw=true)
+![dashboard api](https://github.com/m-tabaei/React_Simple_Project/blob/main/img/3.JPG?raw=true)
 - 🔗 ([https://github.com/m-tabaei/React_Simple_Project])
 - 💻 Developed by Seyed Mohammad Tabaei
 - 📆 Created - 2023
