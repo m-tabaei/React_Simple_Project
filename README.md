@@ -3,6 +3,9 @@
 ![dashboard api](https://github.com/m-tabaei/React_Simple_Project/blob/main/img/2.JPG?raw=true)
 ![dashboard api](https://github.com/m-tabaei/React_Simple_Project/blob/main/img/3.JPG?raw=true)
 - 🔗 ([https://github.com/m-tabaei/React_Simple_Project])
+- 1-npm start
+- 2-cd src
+- 3-npm run server
 - 💻 Developed by Seyed Mohammad Tabaei
 - 📆 Created - 2023
 - 🔧 Technologies Used - html , css ,java script ,React
